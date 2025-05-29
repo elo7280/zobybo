@@ -17,4 +17,3 @@ Käytä nuolinäppäimiä liikuttaaksesi hahmoasi ja navigoidaksesi kentällä.
 Törmää kysymysmerkkiin oikeasta yläkulmasta avataksesi kolikon.
 Kerää kolikko liikkumalla sen päälle, mutta muista, että kolikko ilmestyy vain kerran pelin aikana.
 Pisteesi lisääntyvät, kun keräät kolikon. Näet pisteet konsolissa.
-Avaa Ctrl + P -yhdistelmällä ohjauspaneeli, jossa voit säätää hahmon nopeutta ja pelin asetuksia.
